@@ -1,7 +1,7 @@
 # Hello-Web
 
-#### General Syllabus
-* [IB DP CS](https://github.com/vicennao000/Hello-Web/blob/master/syllabus.md)
+#### Syllabus
+* [Computer Science 1](https://github.com/vicennao000/Hello-Web/blob/master/syllabus.md)
 
 #### Course Description
 * [Computer Science 1](https://github.com/vicennao000/Hello-Web/blob/master/course-descriptions/IB-MYP-CP-CompSci.md)
