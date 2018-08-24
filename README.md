@@ -1,3 +1,7 @@
 # Hello-Web
-My name is Naomi Vicente.
-I am currently on the 10th grade and go to Westchester Academy for International Stuties
+
+#### General Syllabus
+* [IB DP CS](https://github.com/vicennao000/Hello-Web/blob/master/syllabus.md)
+
+#### Course Description
+* [Computer Science 1](https://github.com/vicennao000/Hello-Web/blob/master/course-descriptions/IB-MYP-CP-CompSci.md)
