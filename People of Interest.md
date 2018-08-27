@@ -1,4 +1,4 @@
-#Peple to know: Ada Lovelance
+Peple to know: Ada Lovelance
 
 Ada is condidere to be the first author of a computer program even thought she lived about a century away from the very fist
 invention of a computer
