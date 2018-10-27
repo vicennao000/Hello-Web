@@ -1,5 +1,5 @@
 # Hello-Web
-* With Naomi Vicente
+# With Naomi Vicente
 
 #### Syllabus
 * [Computer Science 1:Syllabus](https://github.com/vicennao000/Hello-Web/blob/master/syllabus.md)
